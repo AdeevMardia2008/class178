@@ -1,1 +1,1 @@
-# class178
+# PRO-C178-Boilerplate
